@@ -7,4 +7,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Resource\Pages\" />
+    <Folder Include="Resource\Controls\" />
+    <Folder Include="Resource\Helpers\" />
+  </ItemGroup>
+
 </Project>
